@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APDU Sender Contactless</string>
+    <string name="textNfc_name">NO READER DETECTED</string>
+    <string name="textCard_name">PLEASE TAP CARD</string>
+    <string name="textCLA_name">CLA:</string>
+    <string name="textINS_name">INS:</string>
+    <string name="textP1_name">P1:</string>
+    <string name="textP2_name">P2:</string>
+    <string name="textLc_name">Lc:</string>
+    <string name="textLe_name">Le:</string>
+    <string name="textDataIn_name">Data:</string>
+    <string name="check_box_raw_name">RAW C-APDU</string>
+    <string name="check_box_resp_name">TLV Interpretation</string>
+    <string name="button_SendApdu_name">Send</string>
+    <string name="button_ClearLog_name">Clear Log</string>
+    <string name="button_SetNFC_name">Set NFC</string>
+    <string name="button_Paste_name">Paste</string>
+</resources>
